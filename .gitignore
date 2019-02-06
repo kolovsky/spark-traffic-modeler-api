@@ -1,0 +1,9 @@
+conf
+testout
+query.sh
+server_test.sh
+settings.py
+.idea
+*.pyc
+stm/settings.py
+test/temp.py

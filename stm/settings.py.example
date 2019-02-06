@@ -1,0 +1,15 @@
+#database conncection
+host = "localhost"
+password = ""
+user = ""
+db = "modeler"
+max_connection = 10
+geometry_column = "geometry"
+
+
+# SparkJobServer
+job_server_url = "http://localhost:8090"
+app_name = "modeler"
+class_path = "com.kolovsky.app.Modeler"
+context = "pilsen2"
+model = "tm_pilsen"
